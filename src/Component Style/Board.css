@@ -1,0 +1,12 @@
+.board
+{
+    height: 40vw;
+    width: 40vw;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2vw;
+    padding: 0%;
+    justify-content: space-between;
+    outline: auto;
+}

@@ -1,0 +1,30 @@
+.outerbox
+{
+    height: 40%;
+    width: 40%;
+    padding: 0%;
+    border-radius: 1%;
+    margin: 0%;
+    outline: auto;
+}
+
+.innerbox
+{
+    height: 70%;
+    width: 70%;
+    margin: auto;
+    margin-top: 15%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    align-items: center;
+    border-radius: 25%;
+}
+
+.pawnbox
+{
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}

@@ -1,0 +1,31 @@
+.center
+{
+    width: 20%;
+    height: 20%;
+    margin: 0%;
+    border-radius: 1%;
+    outline: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center-box
+{
+    position: absolute;
+    height: 0%;
+    width: 0%;;
+    border-top: 4vw solid green;
+    border-right: 4vw solid yellow;
+    border-bottom: 4vw solid blue;
+    border-left: 4vw solid red;
+}
+
+.center-circle
+{
+    height: 40%;
+    width: 40%;
+    background-color: #dcd7de;
+    border-radius: 50%;
+    z-index: 1;
+}

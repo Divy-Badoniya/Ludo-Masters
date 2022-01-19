@@ -1,0 +1,10 @@
+.pathbox
+{
+    outline: auto;
+}
+
+.safe_star
+{
+    background: url('../images/safe_star.png');
+    background-size: 100%;
+}
